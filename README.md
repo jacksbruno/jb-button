@@ -3,7 +3,7 @@
 
 ## Installation
 
-` yarn add gp-button `
+` yarn add jb-button `
 
 ## Basic Usage
 >Use `format` and `type` to define Button`s style.
