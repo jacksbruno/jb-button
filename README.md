@@ -96,7 +96,7 @@
 ## Attributes
 | Attribute  | Description  | Type | Accepted values | Default
 | :------------ |:---------------|:-----:|:-----------:|:----------:|
-| title    | some wordy text | string | -- | -- |
+| title    | some title for the button | string | -- | -- |
 | size    | button size | string | large / medium / small / mini | medium |
 | type    | button type | string | default / primary / success / danger | default |
 | format    | determine the shape of the button | string | plain / round / circle | round |
