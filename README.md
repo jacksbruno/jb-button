@@ -3,6 +3,7 @@
 
 ## Installation
 
+` npm i jb-button --save `
 ` yarn add jb-button `
 
 ## Basic Usage
