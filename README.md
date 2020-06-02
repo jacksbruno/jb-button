@@ -112,4 +112,4 @@
 | prefix    | It is used to add an icon, svg or text, it may or may not be used in conjunction with the sufix slot. When using text, it is advisable to use a `label` tag. This slot will always be left aligned. |
 | sufix    | It is used to add an icon, svg or text, it may or may not be used in conjunction with the prefix slot. When using text, it is advisable to use a `label` tag. This slot will always be aligned to the right. |
 
-#End
+# End
