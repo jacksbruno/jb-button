@@ -12,32 +12,32 @@
 
 ``` javascript
 <div class="row">
-	<jb-button title="Plain" format="plain"/>
-	<jb-button title="Plain" format="plain" type="primary" />
-	<jb-button title="Plain" format="plain" type="success"/>
-	<jb-button title="Plain" format="plain" type="success"/>
+  <jb-button title="Plain" format="plain"/>
+  <jb-button title="Plain" format="plain" type="primary" />
+  <jb-button title="Plain" format="plain" type="success"/>
+  <jb-button title="Plain" format="plain" type="success"/>
 </div>
 
 <div class="row">
-	<jb-button title="Round" />
-	<jb-button title="Round" type="primary" />
-	<jb-button title="Round" type="success"/>
-	<jb-button title="Round" type="success"/>
+  <jb-button title="Round" />
+  <jb-button title="Round" type="primary" />
+  <jb-button title="Round" type="success"/>
+  <jb-button title="Round" type="success"/>
 </div>
 
 <div class="row">
-	<jb-button title="Circle" prefix/>
-		<img src="@/assets/settings.svg" slot="prefix" />
-	</jb-button>
-	<jb-button title="Circle" type="primary" prefix />
-		<img src="@/assets/settings_branco.svg" slot="prefix" />
-	<jb-button>
-	<jb-button title="Circle" type="success" prefix />
-		<img src="@/assets/settings_branco.svg" slot="prefix" />
-	</jb-button>
-	<jb-button title="Circle" type="success" prefix />
-		<img src="@/assets/settings_branco.svg" slot="prefix" />
-	</jb-button>
+  <jb-button title="Circle" prefix/>
+    <img src="@/assets/settings.svg" slot="prefix" />
+  </jb-button>
+  <jb-button title="Circle" type="primary" prefix />
+    <img src="@/assets/settings_branco.svg" slot="prefix" />
+  <jb-button>
+  <jb-button title="Circle" type="success" prefix />
+    <img src="@/assets/settings_branco.svg" slot="prefix" />
+  </jb-button>
+  <jb-button title="Circle" type="success" prefix />
+    <img src="@/assets/settings_branco.svg" slot="prefix" />
+  </jb-button>
 </div>
 ```
 
@@ -48,10 +48,10 @@
 
 ``` javascript
 <div class="row">
-	<jb-button title="Plain" format="plain" size="large" />
-	<jb-button title="Plain" format="plain" size="medium" />
-	<jb-button title="Plain" format="plain" size="small" />
-	<jb-button title="Plain" format="plain" size="mini" />
+  <jb-button title="Plain" format="plain" size="large" />
+  <jb-button title="Plain" format="plain" size="medium" />
+  <jb-button title="Plain" format="plain" size="small" />
+  <jb-button title="Plain" format="plain" size="mini" />
 </div>
 ```
 
@@ -62,10 +62,10 @@
 
 ``` javascript
 <div class="row">
-	<jb-button title="Default" format="plain" disabled />
-	<jb-button title="Primary" format="plain" disabled />
-	<jb-button title="Success" format="plain" disabled />
-	<jb-button title="Danger" format="plain" disabled />
+  <jb-button title="Default" format="plain" disabled />
+  <jb-button title="Primary" format="plain" disabled />
+  <jb-button title="Success" format="plain" disabled />
+  <jb-button title="Danger" format="plain" disabled />
 </div>
 ```
 
@@ -76,20 +76,20 @@
 
 ``` javascript
 <div class="row">
-	<jb-button format="plain" type="primary" prefix>
-		<img src="@/assets/settings_branco.svg" slot="prefix" />
-	</jb-button>
-	<jb-button format="plain" type="primary" sufix>
-		<img src="@/assets/settings_branco.svg" slot="sufix" />
-	</jb-button>
-	<jb-button format="plain" type="primary" disabled>
-		<img src="@/assets/settings_branco.svg" slot="prefix" />
-		<label slot="sufix">Icon Prefix</label>
-	</jb-button>
-	<jb-button format="plain" type="primary" disabled>
-		<img src="@/assets/settings_branco.svg" slot="sufix" />
-		<label slot="prefix">Icon Sufix</label>
-	</jb-button>
+  <jb-button format="plain" type="primary" prefix>
+    <img src="@/assets/settings_branco.svg" slot="prefix" />
+  </jb-button>
+  <jb-button format="plain" type="primary" sufix>
+    <img src="@/assets/settings_branco.svg" slot="sufix" />
+  </jb-button>
+  <jb-button format="plain" type="primary" disabled>
+    <img src="@/assets/settings_branco.svg" slot="prefix" />
+    <label slot="sufix">Icon Prefix</label>
+  </jb-button>
+  <jb-button format="plain" type="primary" disabled>
+    <img src="@/assets/settings_branco.svg" slot="sufix" />
+    <label slot="prefix">Icon Sufix</label>
+  </jb-button>
 </div>
 ```
 
