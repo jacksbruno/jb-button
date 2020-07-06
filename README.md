@@ -1,10 +1,10 @@
-# jb-button
+# @jbmp/button
  > Button component based on vuejs
 
 ## Installation
 
-` npm i jb-button --save `
-` yarn add jb-button `
+` npm i @jbmp/button --save `
+` yarn add @jbmp/button `
 
 ## Basic Usage
 >Use `format` and `type` to define Button`s style.
